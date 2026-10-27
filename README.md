@@ -1,5 +1,7 @@
 # AETHERIA — The Floating Isles
 
+**Live:** https://curtisaccelerate.github.io/aetheria-demo/
+
 A single-file WebGL voxel world: 33 drifting isles, a vermilion pagoda, a stone
 moon-gate approach, sky rays and jellyfish, waterfalls into an endless cloud sea,
 a slow cinematic camera tour, and a procedural score (bells, drone, wind, water,
@@ -14,7 +16,11 @@ Everything — geometry, textures, sky, audio and the Three.js r170 build — li
 - Drag to orbit, scroll to zoom. `Space` pauses the tour, `R` restarts it.
 - Sound unlocks on first click (browser autoplay policy); toggle with `SOUND ON/OFF`.
 
-## Publish to GitHub Pages
+## Deploying elsewhere
+
+This repo is already published via GitHub Pages (Settings → Pages → main / root).
+
+To host the same file somewhere else:
 
 ```bash
 cd publish
